@@ -22,7 +22,7 @@ export const books = [
         title: "Deep Work",
         author: "Cal Newport",
         category: "Productivity",
-        coverUrl: "https://m.media-amazon.com/images/I/71QTY2ZTduL._AC_UF1000,1000_QL80_.jpg",
+        coverUrl: "https://m.media-amazon.com/images/I/91nujEwIpYL._SL1500_.jpg",
         description: "Rules for focused success in a distracted world.",
         growthFactor: "Focus without distraction."
     },
@@ -31,7 +31,7 @@ export const books = [
         title: "Mindset: The New Psychology of Success",
         author: "Carol S. Dweck",
         category: "Mindset",
-        coverUrl: "https://m.media-amazon.com/images/I/71O04t8G1yL._AC_UF1000,1000_QL80_.jpg",
+        coverUrl: "https://m.media-amazon.com/images/I/71h937MExWL._SL1500_.jpg",
         description: "The power of our mindset to influence our success in every area of life.",
         growthFactor: "Fixed vs. Growth Mindset."
     },
@@ -40,16 +40,16 @@ export const books = [
         title: "The 5 AM Club",
         author: "Robin Sharma",
         category: "Habits",
-        coverUrl: "https://m.media-amazon.com/images/I/71KggH5Hn4L._AC_UF1000,1000_QL80_.jpg",
+        coverUrl: "https://m.media-amazon.com/images/I/61Av4S46owL._SL1500_.jpg",
         description: "Own your morning. Elevate your life.",
         growthFactor: "Morning routine mastery."
     },
     {
         id: 6,
-        title: "Essentialism",
+        title: "Essentialism: The Disciplined Pursuit of Less",
         author: "Greg McKeown",
         category: "Productivity",
-        coverUrl: "https://m.media-amazon.com/images/I/71eijZgKrcL._AC_UF1000,1000_QL80_.jpg",
+        coverUrl: "https://m.media-amazon.com/images/I/61QfKSGnwEL._SL1200_.jpg",
         description: "The disciplined pursuit of less.",
         growthFactor: "Doing the right things."
     }
