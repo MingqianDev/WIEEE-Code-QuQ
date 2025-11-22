@@ -14,7 +14,6 @@ export default function Home() {
 
   return (
     <div className="home">
-      <Navbar />
 
       <header className="hero">
         <div className="container">
