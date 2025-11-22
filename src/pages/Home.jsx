@@ -7,6 +7,7 @@ export default function Home() {
     <div className="home">
       <section className="hero">
         <h2>Page 1</h2>
+        <h3>here is some test text</h3>
         <button onClick={() => navigate('/about')}>Go to Page 2</button>
       </section>
     </div>
