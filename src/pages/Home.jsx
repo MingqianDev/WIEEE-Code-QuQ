@@ -19,6 +19,7 @@ export default function Home() {
         <div className="container">
           <h1>Invest in Yourself</h1>
           <p>Curated wisdom for your journey of growth, productivity, and mindfulness.</p>
+          <p>Test123</p>
         </div>
       </header>
 
