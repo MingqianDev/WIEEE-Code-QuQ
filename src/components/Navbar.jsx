@@ -8,7 +8,7 @@ export default function Navbar() {
         <Link to="/" className="logo">Self<span className="logo-accent">Growth</span>.</Link>
         <div className="nav-links">
           <Link to="/" className="nav-link">Catalog</Link>
-          <Link to="testpage.jsx" className="nav-link">Reading List</Link>
+          <Link to="/testpage" className="nav-link">Reading List</Link>
           <button className="btn-primary">Sign In</button>
         </div>
       </div>
